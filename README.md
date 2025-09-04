@@ -48,6 +48,7 @@ WEATHER_API_KEY=your_key_here
 
 python main.py
 
+
 📌 Future Scope
 
 - IoT integration for smart devices
