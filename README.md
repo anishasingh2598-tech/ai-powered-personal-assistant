@@ -38,6 +38,7 @@ The system supports both voice and text commands, providing features like news u
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
+```
 
 pip install -r requirements.txt
 
