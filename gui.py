@@ -1,4 +1,3 @@
-gui.spec
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
 from PIL import Image, ImageTk

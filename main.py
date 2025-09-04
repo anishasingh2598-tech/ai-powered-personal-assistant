@@ -1,4 +1,3 @@
-main.py
 import webbrowser
 import speech_recognition as sr
 import pyttsx3
@@ -130,3 +129,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
